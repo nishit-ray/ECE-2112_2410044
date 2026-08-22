@@ -50,5 +50,6 @@ _**Heaven’s Light is Our Guide**_
 | Lab No. | Title | Link | 
 | :---: | :---: | :---: |
 | 01 | Implementation of Logic Gate, Full Adder and Binary to BCD Converter| [Lab 01](https://github.com/nishit-ray/ECE-2112_2410044/blob/ea4fa2b751fced8a21aa9c0b3ae3dff1d49eac9d/Lab%20Report/labreport-01.pdf) |
+| 02 | | [Lab 02]() |
 
 </div>
