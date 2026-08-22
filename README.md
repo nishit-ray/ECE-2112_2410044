@@ -50,6 +50,6 @@ _**Heaven’s Light is Our Guide**_
 | Lab No. | Title | Link | 
 | :---: | :---: | :---: |
 | 01 | Implementation of Logic Gate, Full Adder and Binary to BCD Converter| [Lab 01](https://github.com/nishit-ray/ECE-2112_2410044/blob/ea4fa2b751fced8a21aa9c0b3ae3dff1d49eac9d/Lab%20Report/labreport-01.pdf) |
-| 02 |Simplification of Boolean Expression | [Lab 02]() |
+| 02 |Simplification of Boolean Expression | [Lab 02](https://github.com/nishit-ray/ECE-2112_2410044/blob/0142e6e650c69a68fc6b1a2f83da6becb7a3f35c/Lab%20Report/labreport-02.pdf) |
 
 </div>
